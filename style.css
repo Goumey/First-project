@@ -1,0 +1,134 @@
+*{
+    font-size: 1em;
+}
+body{
+    background-image: url(img/fond.png);
+    margin: 0;
+}
+header{
+    background-color: rgb(52,177,178);
+    border:3px solid rgb(45, 118, 121);
+    height: 250px;
+   
+ 
+}
+ .header{
+   text-align: center;
+    margin-right: 70px;
+    font-family: slabo;
+    font-size: 27px; 
+}
+main{
+    clear: both;
+    margin: 0 15%;
+}
+nav{
+    margin-top: 60px;
+}
+nav a{
+    text-decoration: none;
+    margin-right: 15px;
+    color: white;
+    font-size: 20px;
+    font-family: 'Slabo 27px', serif;
+    
+}
+/*body*/
+.section1 h1{
+    text-align: center;
+    font-size: 3.8em;
+    font-family: 'Slabo 27px', serif;
+ 
+}
+h2{
+    font-size: 1.8em;
+    font-family: 'Slabo 27px', serif;
+    margin-top: 0;
+}
+.section2 h1{
+    font-size: 1.2em;
+    font-family: 'Slabo 27px', serif;
+}
+.h1sup{
+    font-size: 2em;
+    font-family: 'Slabo 27px', serif;
+    text-align: center;
+    color: rgb(77, 73, 73);
+}
+.divsup{
+    margin: 80px 0;
+    float: right;
+    margin: 0 12%;
+    font-size: 1em;
+    color: rgb(56, 61, 61)
+}
+article{
+    margin-bottom: 15px;
+    font-family: 'Slabo 27px', serif;
+    color: rgb(76, 87, 87);
+    margin-left:  20px;
+
+}
+.section1{
+    background-color: rgb(182, 222, 220);
+  
+    display: inline-block;
+    width: 65%;
+    vertical-align: top;
+    margin-right: 15px;
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(76, 87, 87);
+}
+.image1{
+    border-radius: 100%;
+    float: left;
+}
+
+.plat1{
+  float:left;
+  width: 50%;
+  margin-right: 10px;
+  margin-left: 20px;
+}
+.plat2{
+    margin-right: 20px;
+
+  
+  }
+button{
+    background-color: rgb(52,177,178);
+    color:white;
+    border:0 solid white;
+    float: right;
+    height: 40px;
+    width: 150px;
+    font-family: 'Slabo 27px', serif;
+    margin: 10px 10px;
+    
+}
+.section2{
+    background-color: rgb(52,177,178);
+  display: inline-block;
+    width: 30%;
+    border:3px solid rgb(45, 118, 121);
+    vertical-align: top;
+
+}
+.image3{
+    float: right;
+    transform: translate(50px, -100px);
+  
+}
+.comment{
+    margin: 0 15px;
+    color:rgba(255, 255, 255);
+    font-family: 'Open Sans', sans-serif;
+}
+footer div{
+    clear: both;
+    margin-top: 10px;
+}
+footer p a{
+    text-decoration: none;
+    
+}
